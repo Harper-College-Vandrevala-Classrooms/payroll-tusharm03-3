@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestPayroll" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-06T13:42:41" hostname="LAPTOP-6FMU26UG" time="0.032">
+  <properties/>
+  <testcase name="testCalculateGrossPayWithoutOvertime()" classname="com.csc.TestPayroll" time="0.027"/>
+  <testcase name="testDetermineInsuranceCostWithThreeDependents()" classname="com.csc.TestPayroll" time="0.001"/>
+  <testcase name="testCalculateGrossPayWithOvertime()" classname="com.csc.TestPayroll" time="0.001"/>
+  <testcase name="testDetermineInsuranceCostWithLessThanThreeDependents()" classname="com.csc.TestPayroll" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
